@@ -24,6 +24,8 @@ Everything is working perfectly, and it looks great!
 
 It is not properly deployed. I ran into what I believe to be mitigation issues and issues with the deploy script.
 
+I'm going to perhaps try again tomorrow morning but it really feels like I hit a wall, I have no clue what is going on anymore.
+
 I feel oh so very very lost. I'd like to be able to start these assignments earlier to go to OH, but with a weekly timeline and other courses, its just unrealisitic. 
 
 It's very discouraging getting an entire assignment done only for it to be curtailed at the last step.
