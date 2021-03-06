@@ -1,0 +1,13 @@
+<div>
+  <h2>
+    <%= @post.name %>
+  </h2>
+  <p>
+    When:
+    <%= @post.date %>
+  </p>
+  <%= @post.description %>
+</div>
+
+<span><%= link "Edit", to: Routes.post_path(@conn, :edit, @post) %></span>
+
